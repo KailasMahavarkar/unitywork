@@ -1,10 +1,11 @@
 # unitywork - open freelance platform
+Unitywork is a open freelance platform where any freelancer can openly share gigs as blogs post.
 
 ## frontend repository 
 https://github.com/KailasMahavarkar/unitywork_frontend
 
 ## frontend hosted: 
-https://unityfrontend.up.railway.app/
+https://unityfrontend.netlify.app
 
     frontend test credentials:
     username: kai
@@ -15,4 +16,4 @@ https://unityfrontend.up.railway.app/
 https://github.com/KailasMahavarkar/unitywork_backend
 
 ## backend hosted:
-https://unityfrontend.up.railway.app/
+https://unitybackend.up.railway.app/
