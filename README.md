@@ -1,8 +1,10 @@
 # unitywork - open freelance platform
 
-## frontend repository https://github.com/KailasMahavarkar/unitywork_frontend
+## frontend repository 
+https://github.com/KailasMahavarkar/unitywork_frontend
 
-## frontend hosted: https://unityfrontend.up.railway.app/
+## frontend hosted: 
+https://unityfrontend.up.railway.app/
 
     frontend test credentials:
     username: kai
