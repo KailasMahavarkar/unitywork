@@ -5,7 +5,7 @@ Unitywork is a open freelance platform where any freelancer can openly share gig
 https://github.com/KailasMahavarkar/unitywork_frontend
 
 ## frontend hosted: 
-https://unityfrontend.netlify.app
+https://unitywork.netlify.app
 
     frontend test credentials:
     username: kai
